@@ -2,6 +2,8 @@
 # Project Overview
 
 This project evaluates and compares the performance of six models—three machine learning models and three deep learning models—on a binary classification task using the Mushroom Dataset. The models include:
+
+
    **Data** set link: https://www.kaggle.com/.../prishasawhney/mushroom-dataset/
 - **Machine Learning Models**: Logistic Regression, Decision Tree, Random Forest  
 - **Deep Learning Models**: Artificial Neural Network (ANN), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN)
