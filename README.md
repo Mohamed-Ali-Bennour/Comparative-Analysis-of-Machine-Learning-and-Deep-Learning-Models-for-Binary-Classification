@@ -15,6 +15,8 @@ Each model's performance is assessed using key metrics: **Accuracy**, **F1-score
 - **CNN** (Deep Learning) followed with **95% accuracy**, excelling at capturing feature patterns.
 - **ANN** (Deep Learning) achieved **66% accuracy**, learning non-linear patterns but performing lower than others.
 
+  Data set link: https://www.kaggle.com/.../prishasawhney/mushroom-dataset/
+
 # Conclusion:
 
 This project provides a detailed comparative analysis of traditional machine learning vs. deep learning models for binary classification, offering insights into the strengths and weaknesses of each approach.
